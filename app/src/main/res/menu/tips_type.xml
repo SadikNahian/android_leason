@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Ramdom"
+        android:id="@+id/ramdom_tips"/>
+    <item
+        android:title="TechTips"
+        android:id="@+id/tech_tips"/>
+    <item
+        android:title="FoodTips"
+        android:id="@+id/food_tips"/>
+    <item
+        android:title="FitnessTips"
+        android:id="@+id/fitness_tips"/>
+
+</menu>
